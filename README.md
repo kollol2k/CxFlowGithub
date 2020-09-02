@@ -20,3 +20,4 @@ CxFlowMasterPush-Test16
 CxFlowMasterPush-Test17
 CxFlowMasterPush-Test18-ngrok-new
 CxFlowMasterPush-Test19
+CxFlowMasterPush-Test-FosterPartners
